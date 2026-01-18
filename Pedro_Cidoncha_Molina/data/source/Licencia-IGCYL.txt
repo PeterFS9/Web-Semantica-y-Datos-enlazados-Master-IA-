@@ -1,0 +1,29 @@
+Licencia-IGCYL-NC
+
+CONDICIONES DE UTILIZACIÓN DE LA CARTOGRAFÍA E INFORMACIÓN GEOGRÁFICA PRODUCIDA POR LA ADMINISTRACIÓN DE LA COMUNIDAD DE CASTILLA Y LEÓN
+
+...
+
+Artículo 3. Licencia para uso no comercial.
+Las condiciones de la licencia para uso no comercial serán las siguientes:
+a) Se autoriza el uso no comercial de la cartografía e información geográfica, entendiendo como tal el uso que no conlleva aprovechamiento económico directo, indirecto o diferido.
+b) Se autoriza la transformación, siempre que no suponga una alteración de la cartografía e información geográfica que implique la desnaturalización de su sentido.
+c) Se obliga a citar el reconocimiento de autor de la siguiente forma: «©Junta de Castilla y León». Esta cita debe ser visible junto con la propia información licenciada o de otra que incorpore ésta o cualquier derivado.
+d) Se autoriza la cesión mediante la reproducción o distribución de la información digital licenciada, o de otra que incorpore ésta o cualquier derivado, a otra persona física o jurídica, para que el nuevo usuario haga un uso no comercial de la misma. Será obligatorio la aceptación explícita por el nuevo usuario de las presentes condiciones de uso.
+
+Artículo 4. Licencia para uso comercial.
+Las condiciones de la licencia para uso comercial serán las siguientes:
+a) Se autoriza el uso comercial de la cartografía e información geográfica, entendiendo como tal el uso que conlleva aprovechamiento económico directo, indirecto o diferido.
+b) Se autoriza la transformación, siempre que no suponga una alteración de la cartografía e información geográfica que implique la desnaturalización de su sentido.
+c) Se obliga a citar el reconocimiento de autor de la siguiente forma: «©Junta de Castilla y León». Esta cita debe ser visible junto con la propia información licenciada o de otra que incorpore ésta o cualquier derivado.
+d) Se obliga a informar al usuario final, en toda reproducción, distribución o comunicación pública, de que la cartografía e información geográfica está disponible gratuitamente en www.jcyl.es.
+e) Se autoriza la cesión mediante la reproducción o distribución de la información digital licenciada, o de otra que incorpore ésta o de cualquier derivado, a otra persona física o jurídica, para que el nuevo usuario haga un uso no comercial de la misma. Se requerirá la concesión de una nueva licencia al nuevo usuario o la aceptación explícita por el mismo de las presentes condiciones de uso.
+
+...
+
+
+
+Ver condiciones detalladas en Decreto 27/2012 (BOCYL-25/07/2012):
+http://bocyl.jcyl.es/boletines/2012/07/25/pdf/BOCYL-D-25072012-1.pdf
+
+Centro de Información Territorial:  cit@jcyl.es
